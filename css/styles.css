@@ -18,6 +18,8 @@ body {
         line-height: 1.14;
         letter-spacing: 0.02em;
         color: #212121;
+        list-style: none;
+        text-decoration: none;
       }
 .site-nav a:hover{
     color: #2196F3;
@@ -41,4 +43,69 @@ button{
      }
 .adress {
     font-style: normal;
+}
+.servises-list {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.servises-list-item {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.content {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.67;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.name-workers {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.worker {
+    ont-weight: normal;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.navibutton {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.navibutton:hover{
+    color: #2196F3;
+}
+.navibutton:focus {
+    color: #2196F3;}
+.our-works {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.our-work-item {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
